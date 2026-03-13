@@ -1,0 +1,3 @@
+[submodule "navbar"]
+	path = navbar
+	url = https://github.com/joaoprferreira/single-spa-mfe.git
