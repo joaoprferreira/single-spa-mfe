@@ -1,3 +1,6 @@
 [submodule "navbar"]
 	path = navbar
 	url = https://github.com/joaoprferreira/single-spa-mfe.git
+[submodule "root"]
+	path = root
+	url = https://github.com/joaoprferreira/single-spa-mfe.git
